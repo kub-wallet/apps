@@ -22,7 +22,7 @@ apps/
 
 The slug is the app's identity and does not change, even if the app moves to a new domain. A submission adds exactly one directory. Pull requests touching more than one app will be asked to split.
 
-## `app.json`
+## app.json
 
 ```json
 {
@@ -93,4 +93,4 @@ Filenames are ordinals so that reordering shows up as a rename in the diff. Any 
 
 The GitHub web editor is enough, you do not need a local Git setup.
 
-Put your contact in the pull request description, not in `app.json`.** This repository is public and permanent. We need a contact that reaches a human, including for security reports, and it is how we reach you if something goes wrong with your app addition later.
+Put your contact in the pull request description, not in `app.json`. This repository is public and permanent. We need a contact that reaches a human, including for security reports, and it is how we reach you if something goes wrong with your app addition later.

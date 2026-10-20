@@ -1,0 +1,13 @@
+{
+  "name": "Kalamang Washing",
+  "description": "Kalamang Washing is a decentralized platform that allows you to create a Kalamang and share it with your friends. You can create a Kalamang by depositing KAP-20 tokens and setting the number of recipients. Once the Kalamang is created, you can share it with your friends and they can claim their share of the KAP-20 tokens.",
+  "category": "defi",
+  "url": "https://kalamang.app",
+  "logo": "logo/logo.png",
+  "screenshots": [
+    "screenshot/1.png",
+    "screenshot/2.png",
+    "screenshot/3.png",
+    "screenshot/4.png"
+  ]
+}

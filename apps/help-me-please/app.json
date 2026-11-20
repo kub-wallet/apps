@@ -1,0 +1,13 @@
+{
+  "name": "Help Me Please",
+  "description": "Help Me Please is a decentralized mutual aid and public good platform on KUB Chain connecting people who need immediate everyday support with voluntary helpers. It enables direct, non-custodial peer-to-peer micro-donations in KUB with 0% platform fee and on-chain transparency.",
+  "category": "social",
+  "url": "https://helpmeplease.community",
+  "logo": "logo/logo.svg",
+  "screenshots": [
+    "screenshot/1.png",
+    "screenshot/2.png",
+    "screenshot/3.png",
+    "screenshot/4.png"
+  ]
+}
